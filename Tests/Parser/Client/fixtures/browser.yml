@@ -9514,3 +9514,12 @@
     engine: Gecko
     engine_version: 1.9.2.3
     family: Firefox
+-
+  user_agent: UNTRUSTED/1.0/HS-T39_TD/1.0 Release/03.03.2011 Threadx/4.0 Mocor/W10 Browser/NF4.0 Profile/MIDP-2.0 Config/CLDC-1.1
+  client:
+    type: browser
+    name: NetFront
+    version: "4.0"
+    engine: NetFront
+    engine_version: ""
+    family: NetFront
