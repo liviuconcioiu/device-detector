@@ -9523,3 +9523,12 @@
     engine: NetFront
     engine_version: ""
     family: NetFront
+-
+  user_agent: HUAWEI T1201_TD/1.0 ThreadX_OS/04.00 SC8800H/S4 Release/6.17.2010 Browser/NetFont-3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1
+  client:
+    type: browser
+    name: NetFront
+    version: "3.5"
+    engine: NetFront
+    engine_version: ""
+    family: NetFront

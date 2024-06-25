@@ -3070,7 +3070,7 @@
   version: '$1'
   engine:
     default: 'NetFront'
-- regex: 'Browser/NF(\d+[\.\d]+)'
+- regex: 'Browser/(?:NetFont-|NF)(\d+[\.\d]+)'
   name: 'NetFront'
   version: '$1'
   engine:
