@@ -9559,3 +9559,12 @@
     engine: ""
     engine_version: ""
     family: ""
+-
+  user_agent: Mozilla/6.0 (Future Star Technologies Corp. Star-Blade OS; U; en-US) iNet Browser 2.5
+  client:
+    type: browser
+    name: iNet Browser
+    version: "2.5"
+    engine: ""
+    engine_version: ""
+    family: ""
