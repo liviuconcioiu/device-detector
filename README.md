@@ -258,26 +258,26 @@ php composer.phar install
 
 There are already a few ports of this tool to other languages:
 
-- **.NET** https://github.com/totpero/DeviceDetector.NET
-- **.NET** https://github.com/nandor23/UaDetector
-- **.NET** https://github.com/jorik041/MatomoDeviceDetector.NET
-- **Ruby** https://github.com/podigee/device_detector
-- **JavaScript/TypeScript/NodeJS** https://github.com/etienne-martin/device-detector-js
-- **NodeJS** https://github.com/sanchezzzhak/node-device-detector
-- **Python 3** https://github.com/thinkwelltwd/device_detector
-- **Python 3** https://github.com/pranavagrawal321/UA-Extract
-- **Crystal** https://github.com/creadone/device_detector
-- **Elixir** https://github.com/elixir-inspector/ua_inspector
-- **Java** https://github.com/deevvicom/device-detector
-- **Java** https://github.com/PaniniGelato/java-device-detector
-- **Rust** https://github.com/simplecastapps/rust-device-detector
-- **Rust** https://github.com/arnaudbriche/device-detector-rs
-- **Rust** https://github.com/stry-rs/device-detector
-- **Go** https://github.com/skalibog/device-detector-go
-- **Go** https://github.com/gamebtc/devicedetector
-- **Go** https://github.com/umutbasal/device-detector-go
-- **Go** https://github.com/robicode/device-detector
-- **Go** https://github.com/shubhamc-ins/device-detector
+- **.NET** https://github.com/totpero/DeviceDetector.NET *Last update: 2026/07/30*
+- **.NET** https://github.com/nandor23/UaDetector *Last update: 2026/07/25*
+- **.NET** https://github.com/jorik041/MatomoDeviceDetector.NET *Last update: 2020/04/13*
+- **Ruby** https://github.com/podigee/device_detector *Last update: 2024/07/03*
+- **JavaScript/TypeScript/NodeJS** https://github.com/etienne-martin/device-detector-js *Last update: 2022/04/05*
+- **NodeJS** https://github.com/sanchezzzhak/node-device-detector *Last update: 2026/08/18*
+- **Python** https://github.com/thinkwelltwd/device_detector *Last update: 2026/08/11*
+- **Python** https://github.com/pranavagrawal321/UA-Extract *Last update: 2026/08/18*
+- **Crystal** https://github.com/creadone/device_detector *Last update: 2026/08/06*
+- **Elixir** https://github.com/elixir-inspector/ua_inspector *Last update: 2026/04/30*
+- **Java** https://github.com/deevvicom/device-detector *Last update: 2022/02/22*
+- **Java** https://github.com/PaniniGelato/java-device-detector *Last update: 2018/07/30*
+- **Rust** https://github.com/simplecastapps/rust-device-detector *Last update: 2026/05/18*
+- **Rust** https://github.com/arnaudbriche/device-detector-rs *Last update: 2026/02/12*
+- **Rust** https://github.com/stry-rs/device-detector *Last update: 2021/06/11*
+- **Go** https://github.com/skalibog/device-detector-go *Last update: 2026/08/18*
+- **Go** https://github.com/gamebtc/devicedetector *Last update: 2020/05/13*
+- **Go** https://github.com/umutbasal/device-detector-go *Last update: 2022/08/15*
+- **Go** https://github.com/robicode/device-detector *Last update: 2024/07/18*
+- **Go** https://github.com/shubhamc-ins/device-detector *Last update: 2026/01/14*
 
 ## Icon packs
 
